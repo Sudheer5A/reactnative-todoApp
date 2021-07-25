@@ -1,11 +1,11 @@
 # reactnative-todoApp
-##Setup
+## Setup
 ```
 npm install
 ```
 After that open 'firebase.js' file in the root directory and add your firebase config.
 
-##Run
+## Run
 
 You can run using the following commmands
 ```
